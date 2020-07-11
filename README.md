@@ -6,7 +6,7 @@
 <p>Back-end Developer at scopeweb B.V. I’m also available for Freelance work for an exciting project with tech startups, businesses, entrepreneurs, and developers across the world to create WordPress based websites and applications back-end back-ends.</p>
 
 <p align="center">
-  <a href="https://mikecodes.net">
+  <a href="https://www.mrdemonwolf.me">
     <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/wordpress.png" alt="Personal" style="vertical-align:top; margin:4px">
   </a>  
 </p>
