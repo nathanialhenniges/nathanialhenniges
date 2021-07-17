@@ -64,6 +64,9 @@
 
 ## 📊 Weekly development breakdown
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📢 Find me elsewhere
 
 <p align="center">
