@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathan
 
-<p>Welcome to my page! </br> I'm Nathan, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>Beloit, Wisconsin</b>. Currenty am a Full-stack Developer, Content Creator, Designer, Gamer, Community Owner</p>
+I'm Nathan, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>Beloit, Wisconsin</b>. Currenty am a Full-stack Developer, Content Creator, Designer, Gamer, Community Owner</p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104781632166223872?hideDiscrim=true)](https://discord.com/users/104781632166223872)
 
