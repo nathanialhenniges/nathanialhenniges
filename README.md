@@ -90,7 +90,7 @@
 </p>
 <p align="center">
   <a
-    href="https://www.buymeacoffee.com/mokkapps"
+    href="https://www.buymeacoffee.com/mrdemonwolf"
     target="_blank"
     rel="noreferrer nofollow"
   >
