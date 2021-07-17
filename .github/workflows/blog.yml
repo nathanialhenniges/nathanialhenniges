@@ -1,0 +1,18 @@
+name: Blog in Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once every Sunday
+    - cron: 0 0 * * 0
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://www.mrdemonwolf.me/feed/
+          committer_email: demonwolf@demonwolfdev.com
+          committer_username: NathanHenniges
