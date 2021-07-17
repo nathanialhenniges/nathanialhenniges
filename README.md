@@ -77,7 +77,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanHenniges&theme=monokai-metallian)](https://git.io/streak-stats)
+![Nathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenniges&show_icons=true&theme=monokai)
 
 ---
 
