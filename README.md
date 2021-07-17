@@ -6,27 +6,6 @@
 
 ---
 
-## Tech I code with
-
-<p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue.js&logocolor=42b883&color=35495e" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logocolor=white" />
-  <img alt="Digitalocean" src="https://img.shields.io/badge/-Digitalocean-1a73e8?style=flat-square&logo=digitalocean&logocolor=0080ff&color=fff" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-007acc?style=flat-square&logo=javascript&logocolor=f0db4f&color=323330" />
-    <img alt="Golang" src="https://img.shields.io/badge/-Golang-007acc?style=flat-square&logo=go&logocolor=29beb0&color=ffffff" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-5849be?style=flat-square&logo=postman&logocolor=ff6c37&color=323330" />
-  <img alt="SASS" src="https://img.shields.io/badge/-SASS-cc6699?style=flat-square&logo=Sass&logocolor=white&color=000000" />
-  <img alt="git" src="https://img.shields.io/badge/-git-f05032?style=flat-square&logo=git&logocolor=white&color=000000" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-cb3837?style=flat-square&logo=npm&logocolor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-html5-e34f26?style=flat-square&logo=html5&logocolor=white&color=000000" />
-  <img alt="Google Chrome" src="https://img.shields.io/badge/-Google_Chrome-fb542b?style=flat-square&logo=google-chrome&logocolor=4c8bf5&color=000000" />
-  <img alt="prettier" src="https://img.shields.io/badge/-prettier-f7b93e?style=flat-square&logo=prettier&logocolor=white&color=000000" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logocolor=white&color=000000" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logocolor=white&color=000000" />
-</p>
-
----
-
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
