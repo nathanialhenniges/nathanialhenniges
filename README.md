@@ -2,6 +2,10 @@
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>Beloit, Wisconsin</b>. Currenty am a Full-stack Developer, Content Creator, Designer, Gamer, Community Owner</p>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104781632166223872?hideDiscrim=true)](https://discord.com/users/104781632166223872)
+
+---
+
 ## Tech I code with
 
 <p>
@@ -20,6 +24,21 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logocolor=white&color=000000" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logocolor=white&color=000000" />
 </p>
+
+---
+
+## 📝 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [How to setup NodeJS NVM on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-nodejs-nvm-on-wsl/)
+- [macOS vs Windows 10 for development](https://www.mrdemonwolf.me/blog/macos-vs-windows-10-for-development/)
+- [Reasons remote work can be a good thing](https://www.mrdemonwolf.me/blog/reasons-remote-work-can-be-a-good-thing/)
+- [Why I use VS Code](https://www.mrdemonwolf.me/blog/why-i-use-vs-code/)
+- [How to setup LAMP on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-lamp-on-wsl/)
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 ## 💻 Open Source Projects
 
@@ -51,21 +70,16 @@
   </tbody>
 </table>
 
-## 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How to setup NodeJS NVM on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-nodejs-nvm-on-wsl/)
-- [macOS vs Windows 10 for development](https://www.mrdemonwolf.me/blog/macos-vs-windows-10-for-development/)
-- [Reasons remote work can be a good thing](https://www.mrdemonwolf.me/blog/reasons-remote-work-can-be-a-good-thing/)
-- [Why I use VS Code](https://www.mrdemonwolf.me/blog/why-i-use-vs-code/)
-- [How to setup LAMP on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-lamp-on-wsl/)
-<!-- BLOG-POST-LIST:END -->
+---
 
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NathanHenniges&theme=monokai-metallian)](https://git.io/streak-stats)
+
+---
 
 ## 📢 Find me elsewhere
 
@@ -109,58 +123,3 @@
     />
   </a>
 </p>
-
-<!-- <hr>
-
-### 🔭 I’m currently working on
- -->
-
-<hr>
-
-<!-- ### 🚧 I build with...
-
-<p>
-  <a href="http://avaloniaui.net/">
-    <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/avalonia.svg" alt="Avalonia" style="vertical-align:top; margin:4px">
-  </a>
-
- <a href="https://azure.microsoft.com/en-gb/">
-    <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/apple/swift">
-    <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/">
-    <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/dotnet/wpf">
-    <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/xamarin/Xamarin.Forms">
-    <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/XamarinForms.svg" alt="Xamarin.Forms" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://github.com/xamarin/xamarin-macios">
-      <img src="https://raw.githubusercontent.com/NathanHenniges/NathanHenniges/master/assets/images/xamarinIOS.svg" alt="Xamarin.iOS" style="vertical-align:top; margin:4px">
-  </a>
-
-</p> -->
-
-<!--
-**NathanHenniges/NathanHenniges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
