@@ -9,7 +9,6 @@ I'm Nathan, Fullstack developer from <img src="https://image.flaticon.com/icons/
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to setup NodeJS NVM on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-nodejs-nvm-on-wsl/)
 - [macOS vs Windows 10 for development](https://www.mrdemonwolf.me/blog/macos-vs-windows-10-for-development/)
 - [Reasons remote work can be a good thing](https://www.mrdemonwolf.me/blog/reasons-remote-work-can-be-a-good-thing/)
