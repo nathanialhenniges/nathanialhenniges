@@ -9,12 +9,11 @@ I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How to setup NodeJS NVM on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-nodejs-nvm-on-wsl/)
-- [macOS vs Windows 10 for development](https://www.mrdemonwolf.me/blog/macos-vs-windows-10-for-development/)
+- [Mac Mini for streaming?](https://www.mrdemonwolf.me/blog/mac-mini-for-streaming/)
+- [Development Setup](https://www.mrdemonwolf.me/blog/my-development-setup/)
+- [How to install Windows 10 on Hyper-V](https://www.mrdemonwolf.me/blog/how-to-install-windows-10-on-hyper-v/)
 - [Reasons remote work can be a good thing](https://www.mrdemonwolf.me/blog/reasons-remote-work-can-be-a-good-thing/)
-- [Why I use VS Code](https://www.mrdemonwolf.me/blog/why-i-use-vs-code/)
-- [How to setup LAMP on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-lamp-on-wsl/)
+- [Free vs Paid Office Suite for business](https://www.mrdemonwolf.me/blog/free-vs-paid-office-suite-for-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
