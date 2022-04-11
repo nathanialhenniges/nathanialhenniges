@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nathan
+# 👋 Hi, I'm Nathanial
 
-I'm Nathan, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>Beloit, Wisconsin</b>. Currenty am a Full-stack Developer, Content Creator, Designer, Gamer, Community Owner</p>
+I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>Beloit, Wisconsin</b>. Currenty am a Web Engineer, Content Creator, Designer, Gamer, Community Owner</p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104781632166223872?hideDiscrim=true)](https://discord.com/users/104781632166223872)
 
@@ -9,6 +9,7 @@ I'm Nathan, Fullstack developer from <img src="https://image.flaticon.com/icons/
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to setup NodeJS NVM on WSL](https://www.mrdemonwolf.me/blog/how-to-setup-nodejs-nvm-on-wsl/)
 - [macOS vs Windows 10 for development](https://www.mrdemonwolf.me/blog/macos-vs-windows-10-for-development/)
 - [Reasons remote work can be a good thing](https://www.mrdemonwolf.me/blog/reasons-remote-work-can-be-a-good-thing/)
