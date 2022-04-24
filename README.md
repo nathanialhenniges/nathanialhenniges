@@ -9,11 +9,11 @@ I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming a Rising Professional](https://www.mrdemonwolf.me/blog/becoming-a-rising-professional/)
 - [Mac Mini for streaming?](https://www.mrdemonwolf.me/blog/mac-mini-for-streaming/)
 - [Development Setup](https://www.mrdemonwolf.me/blog/my-development-setup/)
 - [How to install Windows 10 on Hyper-V](https://www.mrdemonwolf.me/blog/how-to-install-windows-10-on-hyper-v/)
 - [Reasons remote work can be a good thing](https://www.mrdemonwolf.me/blog/reasons-remote-work-can-be-a-good-thing/)
-- [Free vs Paid Office Suite for business](https://www.mrdemonwolf.me/blog/free-vs-paid-office-suite-for-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
