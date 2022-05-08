@@ -9,11 +9,11 @@ I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding Irontek co-working space](https://www.mrdemonwolf.me/blog/finding-co-working-space-in-my-own-town/)
+- [What’s inside a web engineer backpack](https://www.mrdemonwolf.me/blog/whats-inside-a-web-engineer-backpack/)
+- [Finding Irontek co-working space](https://www.mrdemonwolf.me/blog/finding-irontek-co-working-space/)
 - [Becoming a Rising Professional](https://www.mrdemonwolf.me/blog/becoming-a-rising-professional/)
 - [Mac Mini for streaming?](https://www.mrdemonwolf.me/blog/mac-mini-for-streaming/)
 - [Development Setup](https://www.mrdemonwolf.me/blog/my-development-setup/)
-- [How to install Windows 10 on Hyper-V](https://www.mrdemonwolf.me/blog/how-to-install-windows-10-on-hyper-v/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
