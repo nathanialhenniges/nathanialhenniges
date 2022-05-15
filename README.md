@@ -19,12 +19,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Desire to help a startup](https://www.mrdemonwolf.me/blog/desire-to-help-a-startup/)
 - [What’s inside a web engineer backpack](https://www.mrdemonwolf.me/blog/whats-inside-a-web-engineer-backpack/)
 - [Finding Irontek co-working space](https://www.mrdemonwolf.me/blog/finding-irontek-co-working-space/)
 - [Becoming a Rising Professional](https://www.mrdemonwolf.me/blog/becoming-a-rising-professional/)
 - [Mac Mini for streaming?](https://www.mrdemonwolf.me/blog/mac-mini-for-streaming/)
-- [Development Setup](https://www.mrdemonwolf.me/blog/my-development-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
