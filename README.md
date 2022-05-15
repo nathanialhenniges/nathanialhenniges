@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Nathanial
+![alt text](https://github.com/nathanhenniges/nathanhenniges/blob/main/cover.png?raw=true "Github Cover")
 
-I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>Beloit, Wisconsin</b>. Currenty am a Web Engineer, Content Creator, Designer, Gamer, Community Owner</p>
+<p align="center">
+<a href="https://www.twitch.tv/mrdemonwolf"><img src="https://img.shields.io/badge/Twitch-00A2DB?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a>
+<a href="https://twitter.com/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
+<a href="https://www.yotube.com/mrdemonwolf"><img src="https://img.shields.io/badge/YouTube-00A2DB?style=for-the-badge&logo=YoutUbe&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=browser&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+</p>
+
+---
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104781632166223872?hideDiscrim=true)](https://discord.com/users/104781632166223872)
 
@@ -9,6 +17,7 @@ I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197
 ## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What’s inside a web engineer backpack](https://www.mrdemonwolf.me/blog/whats-inside-a-web-engineer-backpack/)
 - [Finding Irontek co-working space](https://www.mrdemonwolf.me/blog/finding-irontek-co-working-space/)
 - [Becoming a Rising Professional](https://www.mrdemonwolf.me/blog/becoming-a-rising-professional/)
@@ -17,31 +26,6 @@ I'm Nathan, Web Engineer from <img src="https://image.flaticon.com/icons/svg/197
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-## 📢 Find me elsewhere
-
-<p align="center">
-  <a href="https://www.twitch.tv/mrdemonwolf" target="_blank"
-    ><img
-      alt="Twitch"
-      src="https://img.shields.io/badge/Twitch-%231DA1F2.svg?&style=for-the-badge&logo=twitch&logoColor=ffffff&color=9146ff"
-  /></a>
-  <a href="https://twitter.com/MrDemonWolf" target="_blank"
-    ><img
-      alt="Twitter"
-      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2"
-  /></a>
-  <a href="https://www.youtube.com/mrdemonwolf" target="_blank">
-    <img
-      alt="YouTube"
-      src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=ff0000"
-  /></a>
-  <a href="https://www.github.com/nathanhenniges" target="_blank">
-    <img
-      alt="Github"
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=333"
-  /></a>
-</p>
 
 <p align="center">
   <a href="https://www.mrdemonwolf.me">Check out my website</a>
