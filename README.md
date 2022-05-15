@@ -8,13 +8,15 @@
 <a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
+<p align="center">
+Since 2012 I have been proudly making the internet a better place, one website at a time.  I have had the pleasure to work on a variety of exciting projects involving WordPress site constructing and or Web Engineering.  The journey started with wanting to build my own community with a group of friends.
+</p>
+
 ---
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104781632166223872?hideDiscrim=true)](https://discord.com/users/104781632166223872)
 
 ---
-
-## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
