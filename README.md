@@ -19,11 +19,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [Desire to help a startup](https://www.mrdemonwolf.me/blog/desire-to-help-a-startup/)
-- [What’s inside a web engineer backpack](https://www.mrdemonwolf.me/blog/whats-inside-a-web-engineer-backpack/)
-- [Finding Irontek co-working space](https://www.mrdemonwolf.me/blog/finding-irontek-co-working-space/)
-- [Becoming a Rising Professional](https://www.mrdemonwolf.me/blog/becoming-a-rising-professional/)
-- [Mac Mini for streaming?](https://www.mrdemonwolf.me/blog/mac-mini-for-streaming/)
+- [How to setup WordPress Development on macOS](https://www.mrdemonwolf.com/blog/how-to-setup-a-wordpress-development-on-macos/)
+- [What is Beloit International Film Festival](https://www.mrdemonwolf.com/blog/what-is-beloit-international-film-festival/)
+- [Desire to help a startup](https://www.mrdemonwolf.com/blog/desire-to-help-a-startup/)
+- [What’s inside a web engineer backpack](https://www.mrdemonwolf.com/blog/whats-inside-a-web-engineer-backpack/)
+- [Finding Irontek co-working space](https://www.mrdemonwolf.com/blog/finding-irontek-co-working-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
