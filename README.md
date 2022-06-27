@@ -4,8 +4,7 @@
 <a href="https://www.twitch.tv/mrdemonwolf"><img src="https://img.shields.io/badge/Twitch-00A2DB?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a>
 <a href="https://twitter.com/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
 <a href="https://www.yotube.com/mrdemonwolf"><img src="https://img.shields.io/badge/YouTube-00A2DB?style=for-the-badge&logo=YoutUbe&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=browser&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/nathan-jk-henniges/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
@@ -19,6 +18,7 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to setup WordPress Development on macOS](https://www.mrdemonwolf.com/blog/how-to-setup-a-wordpress-development-on-macos/)
 - [What is Beloit International Film Festival](https://www.mrdemonwolf.com/blog/what-is-beloit-international-film-festival/)
 - [Desire to help a startup](https://www.mrdemonwolf.com/blog/desire-to-help-a-startup/)
@@ -29,7 +29,7 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <p align="center">
-  <a href="https://www.mrdemonwolf.me">Check out my website</a>
+  <a href="https://www.mrdemonwolf.com">Check out my website</a>
 </p>
 <p align="center">
   <a
