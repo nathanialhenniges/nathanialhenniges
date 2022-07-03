@@ -18,9 +18,8 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How to setup WordPress Development on macOS](https://www.mrdemonwolf.com/blog/how-to-setup-a-wordpress-development-on-macos/)
-- [What is Beloit International Film Festival](https://www.mrdemonwolf.com/blog/what-is-beloit-international-film-festival/)
+- [What is Beloit International Film Festival](https://www.mrdemonwolf.com/blog/what-is-biff/)
 - [Desire to help a startup](https://www.mrdemonwolf.com/blog/desire-to-help-a-startup/)
 - [What’s inside a web engineer backpack](https://www.mrdemonwolf.com/blog/whats-inside-a-web-engineer-backpack/)
 - [Finding Irontek co-working space](https://www.mrdemonwolf.com/blog/finding-irontek-co-working-space/)
