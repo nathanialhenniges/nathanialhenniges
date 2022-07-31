@@ -18,11 +18,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [What It’s Like to Be an Entertainer on Twitch](https://www.mrdemonwolf.com/blog/what-its-like-to-be-an-entertainer-on-twitch/)
 - [Introducing the MacBook Pro 14 M1 Pro – the most powerful MacBook yet!](https://www.mrdemonwolf.com/blog/introducing-the-macbook-pro-14-m1-pro-the-most-powerful-macbook-yet/)
 - [A New Operating System Rivalry- macOS Ventura vs Windows 11](https://www.mrdemonwolf.com/blog/a-new-operating-system-rivalry-macos-ventura-vs-windows-11/)
 - [7 Reasons the iPhone 13 Pro is the Best Phone Yet](https://www.mrdemonwolf.com/blog/7-reasons-the-iphone-13-pro-is-the-best-phone-yet/)
 - [How to setup WordPress Development on macOS](https://www.mrdemonwolf.com/blog/how-to-setup-a-wordpress-development-on-macos/)
-- [What is Beloit International Film Festival](https://www.mrdemonwolf.com/blog/what-is-biff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
