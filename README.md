@@ -18,11 +18,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Nuxt is the clear winner over Next for performance](https://www.mrdemonwolf.com/blog/why-nuxt-is-the-clear-winner-over-next-for-performance/)
 - [Switching to Nginx from Apache: Why I Made the Move](https://www.mrdemonwolf.com/blog/switching-to-nginx-from-apache-why-i-made-the-move/)
 - [WordPress – The Powerhouse of the Web](https://www.mrdemonwolf.com/blog/wordpress-the-powerhouse-of-the-web/)
 - [The Power of Toggl: How to increase productivity and optimize your time](https://www.mrdemonwolf.com/blog/the-power-of-toggl-how-to-increase-productivity-and-optimize-your-time/)
 - [What It’s Like to Be an Entertainer on Twitch](https://www.mrdemonwolf.com/blog/what-its-like-to-be-an-entertainer-on-twitch/)
-- [Introducing the MacBook Pro 14 M1 Pro – the most powerful MacBook yet!](https://www.mrdemonwolf.com/blog/introducing-the-macbook-pro-14-m1-pro-the-most-powerful-macbook-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
