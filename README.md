@@ -18,11 +18,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [The Balance Between Work and Life: How to Find the Right Mix](https://www.mrdemonwolf.com/blog/the-balance-between-work-and-life-how-to-find-the-right-mix/)
 - [Why Nuxt is the clear winner over Next for performance](https://www.mrdemonwolf.com/blog/why-nuxt-is-the-clear-winner-over-next-for-performance/)
 - [Switching to Nginx from Apache: Why I Made the Move](https://www.mrdemonwolf.com/blog/switching-to-nginx-from-apache-why-i-made-the-move/)
 - [WordPress – The Powerhouse of the Web](https://www.mrdemonwolf.com/blog/wordpress-the-powerhouse-of-the-web/)
 - [The Power of Toggl: How to increase productivity and optimize your time](https://www.mrdemonwolf.com/blog/the-power-of-toggl-how-to-increase-productivity-and-optimize-your-time/)
-- [What It’s Like to Be an Entertainer on Twitch](https://www.mrdemonwolf.com/blog/what-its-like-to-be-an-entertainer-on-twitch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
