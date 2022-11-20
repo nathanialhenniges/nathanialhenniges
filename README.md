@@ -18,11 +18,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is Go Lang Gaining Popularity in the Programming World?](https://www.mrdemonwolf.com/blog/why-is-go-lang-gaining-popularity-in-the-programming-world/)
 - [Podcasts are Gaining Popularity for These 5 Reasons](https://www.mrdemonwolf.com/blog/podcasts-are-gaining-popularity-for-these-5-reasons/)
 - [Beloit’s Top 3 Dive Hangouts for Food Lovers](https://www.mrdemonwolf.com/blog/beloits-top-3-dive-hangouts-for-food-lovers/)
 - [3 Benefits of Joining a Chamber of Commerce](https://www.mrdemonwolf.com/blog/3-benefits-of-joining-a-chamber-of-commerce/)
 - [Get the most out of Github with the new Github Copilot Companion!](https://www.mrdemonwolf.com/blog/introducing-the-github-copilot-your-ai-driven-code-completion-companion/)
-- [The Balance Between Work and Life: How to Find the Right Mix](https://www.mrdemonwolf.com/blog/the-balance-between-work-and-life-how-to-find-the-right-mix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
