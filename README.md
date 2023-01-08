@@ -18,11 +18,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Discord took over TeamSpeak, Skype, and other online communication platforms](https://www.mrdemonwolf.com/blog/why-discord-took-over-teamspeak-skype-and-other-online-communication-platforms/)
 - [Why I Pick Twitch Over YouTube Gaming for Live Streaming](https://www.mrdemonwolf.com/blog/why-i-pick-twitch-over-youtube-gaming-for-live-streaming/)
 - [The Revolutionary Theme by Elegant Themes](https://www.mrdemonwolf.com/blog/the-revolutionary-theme-by-elegant-themes/)
 - [Why is Go Lang Gaining Popularity in the Programming World?](https://www.mrdemonwolf.com/blog/why-is-go-lang-gaining-popularity-in-the-programming-world/)
 - [Podcasts are Gaining Popularity for These 5 Reasons](https://www.mrdemonwolf.com/blog/podcasts-are-gaining-popularity-for-these-5-reasons/)
-- [Beloit’s Top 3 Dive Hangouts for Food Lovers](https://www.mrdemonwolf.com/blog/beloits-top-3-dive-hangouts-for-food-lovers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
