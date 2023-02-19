@@ -18,11 +18,11 @@ Since 2012 I have been proudly making the internet a better place, one website a
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Ways To Unlock The Potential Of WordPress For Your Small Business](https://www.mrdemonwolf.com/blog/unlock-the-potential-of-wordpress-for-your-small-business/)
 - [Apple’s ARM based MacBook will change the way we use computers](https://www.mrdemonwolf.com/blog/apples-arm-based-macbook-will-change-the-way-we-use-computers/)
 - [Why Discord took over TeamSpeak, Skype, and other online communication platforms](https://www.mrdemonwolf.com/blog/why-discord-took-over-teamspeak-skype-and-other-online-communication-platforms/)
 - [Why I Pick Twitch Over YouTube Gaming for Live Streaming](https://www.mrdemonwolf.com/blog/why-i-pick-twitch-over-youtube-gaming-for-live-streaming/)
 - [The Revolutionary Theme by Elegant Themes](https://www.mrdemonwolf.com/blog/the-revolutionary-theme-by-elegant-themes/)
-- [Why is Go Lang Gaining Popularity in the Programming World?](https://www.mrdemonwolf.com/blog/why-is-go-lang-gaining-popularity-in-the-programming-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
