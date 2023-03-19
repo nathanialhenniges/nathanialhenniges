@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-Since 2012 I have been proudly making the internet a better place, one website at a time.  I have had the pleasure to work on a variety of exciting projects involving WordPress site constructing and or Web Engineering.  The journey started with wanting to build my own community with a group of friends.
+I’m a web engineer and WordPress site builder, who loves to code web applications and create engaging, innovative WordPress websites. I’ve been doing this for many years now, which includes working on a variety of exciting projects such as web engineering, web design, and website maintenance.
 </p>
 
 ---
