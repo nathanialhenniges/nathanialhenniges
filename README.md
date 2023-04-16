@@ -18,11 +18,11 @@ I’m a web engineer and WordPress site builder, who loves to code web applicati
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Engineer’s Perspective: Is College Right For You?](https://www.mrdemonwolf.com/blog/is-college-right-for-you/)
 - [How Often Should You Update Your WordPress Website?](https://www.mrdemonwolf.com/blog/updating-your-wordrpess-website/)
 - [Boost Your Site’s Visibility With These Tips On WordPress SEO](https://www.mrdemonwolf.com/blog/boosting-your-wordpress-seo/)
 - [10 Ways To Unlock The Potential Of WordPress For Your Small Business](https://www.mrdemonwolf.com/blog/unlock-the-potential-of-wordpress-for-your-small-business/)
 - [Apple’s ARM based MacBook will change the way we use computers](https://www.mrdemonwolf.com/blog/apples-arm-based-macbook-will-change-the-way-we-use-computers/)
-- [Why Discord took over TeamSpeak, Skype, and other online communication platforms](https://www.mrdemonwolf.com/blog/why-discord-took-over-teamspeak-skype-and-other-online-communication-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
