@@ -18,11 +18,11 @@ I’m a web engineer and WordPress site builder, who loves to code web applicati
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Speed Up a WordPress Website with Cloudflare or WP Rocket](https://www.mrdemonwolf.com/blog/how-to-speed-up-wordpress-website-with-cloudflare-wp-rocket/)
 - [Must-Have WordPress Plugins for 2023](https://www.mrdemonwolf.com/blog/must-have-wordpress-plugins-for-2023/)
 - [Web Engineer’s Perspective: Is College Right For You?](https://www.mrdemonwolf.com/blog/is-college-right-for-you/)
 - [How Often Should You Update Your WordPress Website?](https://www.mrdemonwolf.com/blog/updating-your-wordrpess-website/)
 - [Boost Your Site’s Visibility With These Tips On WordPress SEO](https://www.mrdemonwolf.com/blog/boosting-your-wordpress-seo/)
-- [10 Ways To Unlock The Potential Of WordPress For Your Small Business](https://www.mrdemonwolf.com/blog/unlock-the-potential-of-wordpress-for-your-small-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
