@@ -18,11 +18,11 @@ I’m a web engineer and WordPress site builder, who loves to code web applicati
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [What does the future hold for WordPress in 2023?](https://www.mrdemonwolf.com/blog/what-does-the-future-hold-for-wordpress-in-2023/)
 - [Rising Professionals: Empower Your Branding Through Wellness Wednesday](https://www.mrdemonwolf.com/blog/rising-professionals-empower-your-branding-through-wellness-wednesday/)
 - [Strength of Perseverance: The Enduring Spirit That Fuels Success](https://www.mrdemonwolf.com/blog/strength-of-perseverance-the-enduring-spirit-that-fuels-success/)
 - [Understanding the Basics and Differences of Shared Hosting, Cloud Hosting, and VPS Hosting](https://www.mrdemonwolf.com/blog/understanding-the-basics-and-differences-of-shared-hosting-cloud-hosting-and-vps-hosting/)
 - [Building a Business Network: Boost Your Success and Reach](https://www.mrdemonwolf.com/blog/building-a-business-network-boost-your-success-and-reach/)
-- [The Business Benefits of Unplugging and Embracing Nature: Recharge Your Mind and Body](https://www.mrdemonwolf.com/blog/the-business-benefits-of-unplugging-and-embracing-nature-recharge-your-mind-and-body/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
