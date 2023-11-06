@@ -8,7 +8,11 @@
 </p>
 
 <p align="center">
-I’m a web engineer and WordPress site builder, who loves to code web applications and create engaging, innovative WordPress websites. I’ve been doing this for many years now, which includes working on a variety of exciting projects such as web engineering, web design, and website maintenance.
+As a seasoned web developer and WordPress site builder, I take pride in crafting dynamic web applications and captivating WordPress websites. With years of experience under my belt, I have honed my skills in web engineering, design, and maintenance, having worked on a diverse range of exciting projects. I am now offering my services to those seeking new and innovative opportunities in website and software development.
+
+When I first began building websites, I was a novice. I conducted thorough research to figure out where to begin. Starting with basic sites, I gradually progressed to more complex features. Despite many difficulties, I persisted until I achieved success. During the process, I established valuable connections and assisted others in realizing their goals. As a result, I am incredibly proud of this achievement! Although freelancing posed challenges, I persevered by taking on free projects for friends, which taught me valuable skills in managing the business side of things.
+
+As a hobby, I enjoy streaming and building websites and web applications. In my free time, I like to kick back and play video games with friends, as I strive to maintain a healthy work-life balance. Join me for some fun and engaging content that blends both business and pleasure!
 </p>
 
 ---
