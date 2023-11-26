@@ -22,11 +22,11 @@ As a hobby, I enjoy streaming and building websites and web applications. In my 
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Haven’t Made the Leap to the New M3 MacBook Pro Just Yet?](https://www.mrdemonwolf.com/blog/why-i-havent-made-the-leap-to-the-new-m3-macbook-pro-just-yet/)
 - [Embracing the world of VTubing](https://www.mrdemonwolf.com/blog/embracing-the-world-of-vtubing/)
 - [3 Reasons Why the MacBook Air M1 is Still a Great Laptop in 2023](https://www.mrdemonwolf.com/blog/3-reasons-why-the-macbook-air-m1-is-still-a-great-laptop-in-2023/)
 - [From Hobby to Business: My Journey in Web Development](https://www.mrdemonwolf.com/blog/from-hobby-to-business-my-journey-in-web-development/)
 - [What does the future hold for WordPress in 2023?](https://www.mrdemonwolf.com/blog/what-does-the-future-hold-for-wordpress-in-2023/)
-- [Rising Professionals: Empower Your Branding Through Wellness Wednesday](https://www.mrdemonwolf.com/blog/rising-professionals-empower-your-branding-through-wellness-wednesday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
