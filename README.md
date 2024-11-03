@@ -22,11 +22,11 @@ As a hobby, I enjoy streaming and building websites and web applications. In my 
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Website: The Key Entryway to Business Success](https://www.mrdemonwolf.com/blog/your-website-the-key-entryway-to-business-success/)
 - [My Journey into the Furry Fandom: A Personal Reflection](https://www.mrdemonwolf.com/blog/my-journey-into-the-furry-fandom-a-personal-reflection/)
 - [Jira: The Love-Hate in Project Management](https://www.mrdemonwolf.com/blog/jira-the-love-hate-in-project-management/)
 - [My First Furry Con](https://www.mrdemonwolf.com/blog/my-first-furry-con/)
 - [What makes T3 Stack stand out from the rest?](https://www.mrdemonwolf.com/blog/what-makes-t3-stack-stand-out-from-the-rest/)
-- [Why I Haven’t Made the Leap to the New M3 MacBook Pro Just Yet?](https://www.mrdemonwolf.com/blog/why-i-havent-made-the-leap-to-the-new-m3-macbook-pro-just-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
