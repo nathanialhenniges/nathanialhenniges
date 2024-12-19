@@ -17,7 +17,7 @@ As a hobby, I enjoy streaming and building websites and web applications. In my 
 
 ---
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/104781632166223872?hideDiscrim=true)](https://discord.com/users/104781632166223872)
+[![Discord Presence](https://lanyard.cnrad.dev/api/104781632166223872)](https://discord.com/users/104781632166223872)
 
 ---
 
