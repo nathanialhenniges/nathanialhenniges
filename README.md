@@ -1,28 +1,30 @@
-![alt text](https://github.com/nathanhenniges/nathanhenniges/blob/main/cover.png?raw=true "Github Cover")
+![GitHub Cover](https://github.com/nathanhenniges/nathanhenniges/blob/main/cover.png?raw=true "GitHub Cover")
 
 <p align="center">
-<a href="https://www.twitch.tv/mrdemonwolf"><img src="https://img.shields.io/badge/Twitch-00A2DB?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a>
-<a href="https://x/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
-<a href="https://www.yotube.com/mrdemonwolf"><img src="https://img.shields.io/badge/YouTube-00A2DB?style=for-the-badge&logo=YoutUbe&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/nathan-jk-henniges/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.twitch.tv/mrdemonwolf"><img src="https://img.shields.io/badge/Twitch-00A2DB?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a>
+  <a href="https://x/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/mrdemonwolf"><img src="https://img.shields.io/badge/YouTube-00A2DB?style=for-the-badge&logo=YouTube&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/nathan-jk-henniges/"><img src="https://img.shields.io/badge/LinkedIn-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-As a seasoned web developer and WordPress site builder, I take pride in crafting dynamic web applications and captivating WordPress websites. With years of experience under my belt, I have honed my skills in web engineering, design, and maintenance, having worked on a diverse range of exciting projects. I am now offering my services to those seeking new and innovative opportunities in website and software development.
+---
 
-When I first began building websites, I was a novice. I conducted thorough research to figure out where to begin. Starting with basic sites, I gradually progressed to more complex features. Despite many difficulties, I persisted until I achieved success. During the process, I established valuable connections and assisted others in realizing their goals. As a result, I am incredibly proud of this achievement! Although freelancing posed challenges, I persevered by taking on free projects for friends, which taught me valuable skills in managing the business side of things.
+### About Me
 
-As a hobby, I enjoy streaming and building websites and web applications. In my free time, I like to kick back and play video games with friends, as I strive to maintain a healthy work-life balance. Join me for some fun and engaging content that blends both business and pleasure!
+As a seasoned **web developer** and **WordPress expert**, I specialize in creating dynamic web applications and captivating websites. Over the years, I’ve worked on diverse and exciting projects, honing my skills in web engineering, design, and maintenance. I am passionate about helping businesses and individuals bring their visions to life through innovative website and software solutions.
 
-<blockquote>
-The distance between dreams and reality is called action
-</blockquote>
+My journey started with simple websites, overcoming challenges through persistence and learning. Freelancing gave me invaluable experience, teaching me the intricacies of managing projects and delivering quality work. Today, I’m proud to share my expertise with a community that values creativity and technical excellence.
+
+When I’m not coding, you’ll find me streaming on Twitch, playing video games with friends, or brainstorming new tech ideas. Join me for a unique blend of business and pleasure as I explore the ever-evolving world of technology.
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/104781632166223872)](https://discord.com/users/104781632166223872)
+### Quote
+> "The distance between dreams and reality is called action."
 
 ---
 
+### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Your Website: The Key Entryway to Business Success](https://www.mrdemonwolf.com/blog/your-website-the-key-entryway-to-business-success/)
 - [My Journey into the Furry Fandom: A Personal Reflection](https://www.mrdemonwolf.com/blog/my-journey-into-the-furry-fandom-a-personal-reflection/)
@@ -32,3 +34,6 @@ The distance between dreams and reality is called action
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+### Discord Presence
+[![Discord Presence](https://lanyard.cnrad.dev/api/104781632166223872)](https://discord.com/users/104781632166223872)
