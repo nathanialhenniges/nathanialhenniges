@@ -32,7 +32,3 @@ The distance between dreams and reality is called action
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<p align="center">
-  <a href="https://www.mrdemonwolf.com">Check out my website</a>
-</p>
