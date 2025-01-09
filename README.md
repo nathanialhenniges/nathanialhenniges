@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.twitch.tv/mrdemonwolf"><img src="https://img.shields.io/badge/Twitch-00A2DB?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a>
-<a href="https://twitter.com/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
+<a href="https://x/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
 <a href="https://www.yotube.com/mrdemonwolf"><img src="https://img.shields.io/badge/YouTube-00A2DB?style=for-the-badge&logo=YoutUbe&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/nathan-jk-henniges/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
