@@ -7,9 +7,11 @@
 <a href="https://www.linkedin.com/in/nathan-jk-henniges/"><img src="https://img.shields.io/badge/Nathanial_Henniges-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-<p align="center">
+<blockquote>
+The distance between dreams and reality is called action
+</blockquote>
+
 As a seasoned web developer and WordPress site builder, I take pride in crafting dynamic web applications and captivating WordPress websites. With years of experience under my belt, I have honed my skills in web engineering, design, and maintenance, having worked on a diverse range of exciting projects. I am now offering my services to those seeking new and innovative opportunities in website and software development.
-</p>
 
 When I first began building websites, I was a novice. I conducted thorough research to figure out where to begin. Starting with basic sites, I gradually progressed to more complex features. Despite many difficulties, I persisted until I achieved success. During the process, I established valuable connections and assisted others in realizing their goals. As a result, I am incredibly proud of this achievement! Although freelancing posed challenges, I persevered by taking on free projects for friends, which taught me valuable skills in managing the business side of things.
 
