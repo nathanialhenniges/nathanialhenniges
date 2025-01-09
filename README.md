@@ -36,10 +36,3 @@ The distance between dreams and reality is called action
 <p align="center">
   <a href="https://www.mrdemonwolf.com">Check out my website</a>
 </p>
-<p align="center">
-  <a
-    href="https://www.buymeacoffee.com/mrdemonwolf"
-    target="_blank"
-    rel="noreferrer nofollow"
-  >
-</p>
