@@ -26,11 +26,11 @@ When I’m not coding, you’ll find me streaming on Twitch, playing video games
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 Roadmap: My Goals in Business, WordPress &amp; Code](https://www.mrdemonwolf.com/blog/2025-roadmap-my-goals-in-business-wordpress-amp-code/)
 - [Your Website: The Key Entryway to Business Success](https://www.mrdemonwolf.com/blog/your-website-the-key-entryway-to-business-success/)
 - [My Journey into the Furry Fandom: A Personal Reflection](https://www.mrdemonwolf.com/blog/my-journey-into-the-furry-fandom-a-personal-reflection/)
 - [Jira: The Love-Hate in Project Management](https://www.mrdemonwolf.com/blog/jira-the-love-hate-in-project-management/)
 - [My First Furry Con](https://www.mrdemonwolf.com/blog/my-first-furry-con/)
-- [What makes T3 Stack stand out from the rest?](https://www.mrdemonwolf.com/blog/what-makes-t3-stack-stand-out-from-the-rest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
