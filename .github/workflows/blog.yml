@@ -16,4 +16,4 @@ jobs:
           feed_list: https://www.mrdemonwolf.com/feed/
           committer_email: nathanial.henniges@mrdemonwolf.com
           committer_username: NathanialHenniges
-          template: "- [$title]($url/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)"
+          template: "- [$title]($url/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)
