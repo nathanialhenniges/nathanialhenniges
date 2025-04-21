@@ -14,5 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://www.mrdemonwolf.com/feed/
-          committer_email: demonwolf@demonwolfdev.com
-          committer_username: NathanHenniges
+          committer_email: nathanial.henniges@mrdemonwolf.com
+          committer_username: NathanialHenniges
+          template: "<tr><td>$title</td><td>$url?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings</td></tr>"
