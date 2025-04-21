@@ -25,7 +25,12 @@ When I’m not coding, you’ll find me streaming on Twitch, playing video games
 ---
 
 ### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->- [2025 Roadmap: My Goals in Business, WordPress &amp; Code](https://www.mrdemonwolf.com/blog/2025-roadmap-my-goals-in-business-wordpress-amp-code//?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)- [Your Website: The Key Entryway to Business Success](https://www.mrdemonwolf.com/blog/your-website-the-key-entryway-to-business-success//?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)- [My Journey into the Furry Fandom: A Personal Reflection](https://www.mrdemonwolf.com/blog/my-journey-into-the-furry-fandom-a-personal-reflection//?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)- [Jira: The Love-Hate in Project Management](https://www.mrdemonwolf.com/blog/jira-the-love-hate-in-project-management//?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)- [My First Furry Con](https://www.mrdemonwolf.com/blog/my-first-furry-con//?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://www.mrdemonwolf.com/blog/2025-roadmap-my-goals-in-business-wordpress-amp-code/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">2025 Roadmap: My Goals in Business, WordPress &amp; Code</a></li>
+<li><a href="https://www.mrdemonwolf.com/blog/your-website-the-key-entryway-to-business-success/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">Your Website: The Key Entryway to Business Success</a></li>
+<li><a href="https://www.mrdemonwolf.com/blog/my-journey-into-the-furry-fandom-a-personal-reflection/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">My Journey into the Furry Fandom: A Personal Reflection</a></li>
+<li><a href="https://www.mrdemonwolf.com/blog/jira-the-love-hate-in-project-management/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">Jira: The Love-Hate in Project Management</a></li>
+<li><a href="https://www.mrdemonwolf.com/blog/my-first-furry-con/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">My First Furry Con</a></li>
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
