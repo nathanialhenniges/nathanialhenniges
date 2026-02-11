@@ -3,15 +3,18 @@ name: Blog in Readme
 on:
   workflow_dispatch:
   schedule:
-    # Once every Sunday
-    - cron: 0 0 * * 0
+    # Once every Sunday at midnight UTC
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
 
 jobs:
-  update:
+  update-blog-posts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: https://www.mrdemonwolf.com/feed/
           committer_email: natanial.henniges@mrdemonwolf.com

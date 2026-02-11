@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.twitch.tv/mrdemonwolf"><img src="https://img.shields.io/badge/Twitch-00A2DB?&style=for-the-badge&logo=twitch&logoColor=white" height=25></a>
-  <a href="https://x/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
+  <a href="https://x.com/mrdemonwolf"><img src="https://img.shields.io/badge/Twitter-00A2DB?&style=for-the-badge&logo=Twitter&logoColor=white" height=25></a>
   <a href="https://www.youtube.com/mrdemonwolf"><img src="https://img.shields.io/badge/YouTube-00A2DB?style=for-the-badge&logo=YouTube&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/nathan-jk-henniges/"><img src="https://img.shields.io/badge/LinkedIn-00A2DB?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
@@ -11,11 +11,15 @@
 
 ### About Me
 
-As a seasoned **web developer** and **WordPress expert**, I specialize in creating dynamic web applications and captivating websites. Over the years, I’ve worked on diverse and exciting projects, honing my skills in web engineering, design, and maintenance. I am passionate about helping businesses and individuals bring their visions to life through innovative website and software solutions.
+**President of [MrDemonWolf, Inc.](https://github.com/MrDemonWolf)** | **11+ Years of Development Experience** | [mrdemonwolf.com](https://www.mrdemonwolf.com)
 
-My journey started with simple websites, overcoming challenges through persistence and learning. Freelancing gave me invaluable experience, teaching me the intricacies of managing projects and delivering quality work. Today, I’m proud to share my expertise with a community that values creativity and technical excellence.
+I'm a web developer and WordPress site builder who specializes in crafting dynamic web applications and captivating websites. Over the years, I've honed my skills in web engineering, design, and maintenance across a diverse range of projects — and today I lead **[MrDemonWolf, Inc.](https://github.com/MrDemonWolf)**, where my mission is creating clean, sleek, and powerful web experiences that enhance your business.
 
-When I’m not coding, you’ll find me streaming on Twitch, playing video games with friends, or brainstorming new tech ideas. Join me for a unique blend of business and pleasure as I explore the ever-evolving world of technology.
+My journey started with basic sites, plenty of research, and a lot of persistence. I progressed from simple pages to complex features, building valuable connections and helping others realize their goals along the way. Freelancing — including free projects for friends — taught me how to manage the business side as much as the technical side, and I'm proud of where that path has led.
+
+**Services I offer:** Web Design & Development, Web Applications, Search Engine Optimization, and Business Email Setup.
+
+Outside of work, you'll find me streaming on Twitch, playing video games with friends, or brainstorming new tech ideas. I believe in a healthy work-life balance — join me for some fun content that blends business and pleasure!
 
 ---
 
