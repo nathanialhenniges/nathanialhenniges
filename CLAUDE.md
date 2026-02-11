@@ -24,6 +24,8 @@ GitHub profile README repository (`nathanhenniges/nathanhenniges`) — renders a
 
 ## Notes
 
+- Nathan Henniges is **President of MrDemonWolf, Inc.** — GitHub org: https://github.com/MrDemonWolf | Website: https://www.mrdemonwolf.com
 - Online alias across platforms: **mrdemonwolf**
-- Nathan Henniges is President of **MrDemonWolf, Inc.**
+- Services offered: Web Design & Development, Web Applications, SEO, Business Email Setup
+- The README About Me section mirrors content from the mrdemonwolf.com about page — keep them in sync when updating
 - No dependencies, no build commands, no tests
