@@ -31,3 +31,8 @@ Outside of work, I stream, make music, and build community projects as
 [Twitch](https://www.twitch.tv/mrdemonwolf) ·
 [YouTube](https://www.youtube.com/@MrDemonWolf) ·
 [LinkedIn](https://www.linkedin.com/in/nathan-jk-henniges/)
+
+## Recent writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
