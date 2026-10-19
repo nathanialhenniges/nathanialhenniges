@@ -5,10 +5,9 @@
 # Hi, I’m Nathanial
 
 I’m a software developer and creator in Wisconsin. I build web apps, open-source
-tools, and WordPress sites, and I lead [MrDemonWolf, Inc.](https://github.com/MrDemonWolf),
+tools, and WordPress sites as President of [MrDemonWolf, Inc.](https://github.com/MrDemonWolf),
 a small studio focused on web development, software, and hosting for small
-businesses. I’m also Co-Founder and Founding Engineer at
-[Kommit](https://getkommit.ai).
+businesses. I’m also Co-Founder and Founding Engineer at [Kommit](https://getkommit.ai).
 
 Outside of work, I stream, make music, and build community projects as
 [MrDemonWolf](https://mrdemonwolf.com).
