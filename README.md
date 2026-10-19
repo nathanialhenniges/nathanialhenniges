@@ -1,5 +1,7 @@
 ![Blue wolf beside the words “Welcome to the pack.”](./cover.png)
 
+[![Blog feed workflow](https://github.com/nathanialhenniges/nathanialhenniges/actions/workflows/blog.yml/badge.svg)](https://github.com/nathanialhenniges/nathanialhenniges/actions/workflows/blog.yml)
+
 # Hi, I’m Nathanial
 
 I’m a software developer and creator in Wisconsin. I build web apps, open-source
@@ -11,7 +13,7 @@ businesses. I’m also Co-Founder and Founding Engineer at
 Outside of work, I stream, make music, and build community projects as
 [MrDemonWolf](https://mrdemonwolf.com).
 
-## What I’m building
+## What I’m building ![GitHub Octicon: code](./icons/code.svg)
 
 - [Dirework](https://github.com/MrDemonWolf/dirework) — a co-working timer,
   viewer task list, Twitch bot, and OBS overlays.
@@ -24,7 +26,7 @@ Outside of work, I stream, make music, and build community projects as
 - [Minimal Pomo Timer](https://github.com/nathanialhenniges/Minimal-Pomo-Timer) —
   a small focus timer project.
 
-## Find me
+## Find me ![GitHub Octicon: globe](./icons/globe.svg)
 
 [Website](https://mrdemonwolf.com) ·
 [GitHub organization](https://github.com/MrDemonWolf) ·
@@ -40,3 +42,5 @@ Outside of work, I stream, make music, and build community projects as
 <li><a href="https://www.mrdemonwolf.com/blog/goodbye-microsoft-hello-google-my-workspace-switch/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">Goodbye Microsoft, Hello Google: My Workspace Switch</a></li>
 <li><a href="https://www.mrdemonwolf.com/blog/2025-roadmap-my-goals-in-business-wordpress-amp-code/?utm_source=github&utm_medium=profile-readme&utm_campaign=blog-section&utm_content=blog-listings">2025 Roadmap: My Goals in Business, WordPress &amp; Code</a></li>
 <!-- BLOG-POST-LIST:END -->
+
+Icons: [GitHub Primer Octicons](https://github.com/primer/octicons), MIT license.
