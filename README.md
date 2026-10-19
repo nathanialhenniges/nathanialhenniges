@@ -11,7 +11,7 @@
 
 ### About Me
 
-**President of [MrDemonWolf, Inc.](https://github.com/MrDemonWolf)** | **11+ Years of Development Experience** | [mrdemonwolf.com](https://www.mrdemonwolf.com)
+**President of [MrDemonWolf, Inc.](https://github.com/MrDemonWolf)** | **Founding Engineer at [KommitAI](https://getkommit.ai)** | [mrdemonwolf.com](https://www.mrdemonwolf.com)
 
 I'm a web developer and WordPress site builder who specializes in crafting dynamic web applications and captivating websites. Over the years, I've honed my skills in web engineering, design, and maintenance across a diverse range of projects — and today I lead **[MrDemonWolf, Inc.](https://github.com/MrDemonWolf)**, where my mission is creating clean, sleek, and powerful web experiences that enhance your business.
 
